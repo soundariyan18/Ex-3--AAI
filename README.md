@@ -1,7 +1,7 @@
 <H3>NAME:  Soundariyan MN</H3>
 <H3>REGISTER NO:212222230146</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:15/04/2025</H3>
+<H3>DATE:22/04/2025</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
